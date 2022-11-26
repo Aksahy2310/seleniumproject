@@ -16,7 +16,10 @@ public class Script2 {
 		 
 		 driver.switchTo().frame("iframeResult");
 		 
-		 
+        System.out.println("akshay");	
+		  System.out.println("akshay");
+		  System.out.println("akshay");
+		  System.out.println("akshay");
 			
 	}
 
